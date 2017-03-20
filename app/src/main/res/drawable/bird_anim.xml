@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+                xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="83" android:drawable="@mipmap/bird1" />
+    <item android:duration="83" android:drawable="@mipmap/bird2" />
+    <item android:duration="83" android:drawable="@mipmap/bird3" />
+    <item android:duration="83" android:drawable="@mipmap/bird4" />
+    <item android:duration="83" android:drawable="@mipmap/bird5" />
+    <item android:duration="83" android:drawable="@mipmap/bird6" />
+    <item android:duration="83" android:drawable="@mipmap/bird7" />
+    <item android:duration="83" android:drawable="@mipmap/bird8" />
+    <item android:duration="83" android:drawable="@mipmap/bird9" />
+    <item android:duration="83" android:drawable="@mipmap/bird10" />
+    <item android:duration="83" android:drawable="@mipmap/bird11" />
+</animation-list>
